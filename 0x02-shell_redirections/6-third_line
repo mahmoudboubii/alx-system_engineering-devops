@@ -1,0 +1,2 @@
+#!/bin/bash
+hear -3 iacta | tail -1
